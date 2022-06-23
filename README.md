@@ -55,7 +55,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 ## Modules (THIS SECTION IS AUTO-GENERATED, PLEASE DO NOT EDIT)
 
 This section will show any installed modules you add from the Storyboard Modules section.
-- [screen-forgot-password](screens/forgot-password)
 - [react-native-social-login](modules/social-login)
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-settings](screens/settings)
